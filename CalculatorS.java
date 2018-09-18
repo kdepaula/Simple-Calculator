@@ -5,7 +5,7 @@
  */
 public class CalculatorS 
 {
-		
+		//the line below this the method header (not the main method just a method)
 	public int add(int num1, int num2)
 	{
 		int ans = num1 + num2;
@@ -14,8 +14,8 @@ public class CalculatorS
 	
 	public int subtract(int num1, int num2)
 	{
-			int ans = num1 - num2;
-			return ans;
+		
+			return num1 + num2;
 	}
 }
 
